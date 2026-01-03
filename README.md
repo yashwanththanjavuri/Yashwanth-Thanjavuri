@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Yashwanth-Thanjavuri
 📊 Data Analyst | Business Intelligence | Workforce & Operations Analytics
+
 🤝 Let’s Connect
 📧 Email: yashwanththanjavuri99@gmail.com
+
 💡 About Me
 I am a Data Analyst with experience transforming raw data into clear, actionable insights that support business, workforce, and operational decision-making. I specialize in data analysis, reporting, visualization, and data quality, and I enjoy telling meaningful stories through data.
 I’ve worked across enterprise and consulting environments, collaborating with business stakeholders to design dashboards, automate reporting, and ensure data accuracy and integrity.
+
 🛠️ Technical Skills
 🔹 Data Analysis & Reporting
 
@@ -51,6 +54,7 @@ Requirements Gathering
 Agile / Scrum Environments
 
 Documentation & Presentations
+
 📊 What I Work On
 
 Building dashboards and scorecards that drive decisions
@@ -62,6 +66,7 @@ Automating repetitive reporting processes
 Ensuring data accuracy, consistency, and compliance
 
 Translating complex data into executive-ready insights
+
 📌 Experience Highlights
 
 Designed and enhanced Power BI dashboards for leadership reporting
@@ -73,6 +78,7 @@ Automated Excel-based reports to reduce manual effort
 Partnered with stakeholders to gather requirements and deliver insights
 
 Supported data audits, validation, and compliance reporting
+
 🤖 AI & Advanced Analytics
 
 Applied AI-assisted analysis for research and forecasting
@@ -80,6 +86,7 @@ Applied AI-assisted analysis for research and forecasting
 Used automation and analytics to improve efficiency and accuracy
 
 Exploring predictive analytics and AI-driven insights
+
 📈 Currently Learning
 
 Advanced SQL & query optimization
